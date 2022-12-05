@@ -1,0 +1,17 @@
+.square {
+    width: 200px;
+    height: 200px;
+    border: solid;
+}
+
+.circle{
+    height: 200px;
+    width: 200px;
+    border: dotted;
+    border-radius: 130px;
+}
+.linia{
+    display: flex;
+    flex-direction: column-reverse  ;
+
+}
