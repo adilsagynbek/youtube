@@ -1,0 +1,27 @@
+.sozdor {
+    color: blue;
+    background-color: #fff;
+    display: flex;
+    width: 400px;
+    justify-content: space-between;
+    
+}
+
+.dom button{
+    color: white;
+    background-color: #0e6dfd;
+    border-radius: 5px;
+    height: 24px;
+    border: 0px;
+    color: #fff;
+    
+   
+}
+.container1{
+    display: flex;
+    justify-content: center;
+    color: #fff;
+   
+    
+}
+
